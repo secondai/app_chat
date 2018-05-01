@@ -1,9 +1,9 @@
 {
   "type": "app_base:Qmtesting",
-  "name": "app_social",
+  "name": "app_chat",
   "data": {
-    "appId": "social",
-    "name": "Social",
+    "appId": "chat",
+    "name": "Chat",
     "release": "production",
     "version": 1,
     "releaseNotes": "....",
